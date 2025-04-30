@@ -1,146 +1,468 @@
 {
   "version": "LysterfieldResultsApp_v1.6_GithubPages",
-  "exportDate": "2025-04-30T13:52:50.229Z",
+  "exportDate": "2024-03-16T09:00:00.000Z",
   "seriesData": [
     {
-      "id": 1745926394692,
-      "name": "Summer",
-      "numberOfRaces": 8,
+      "id": 1710580000001,
+      "name": "Demo Standard Series 1 (Autumn)",
+      "isShortCourse": false,
+      "numberOfRaces": 10,
       "discardThreshold": 4,
       "dncScoringRule": "raceEntries",
       "races": [
         {
           "raceNumber": 1,
-          "date": null,
+          "date": "2024-03-17",
           "entries": [
-            {
-              "sailNumber": "1986",
-              "boatClass": "Sabre",
-              "skipper": "Steve Watson",
-              "yardstick": 127,
-              "status": "finished",
-              "elapsedTime": "00:39:52"
-            },
-            {
-              "sailNumber": "1200",
-              "boatClass": "Pacer Non Spinnaker",
-              "skipper": "Megan Cross",
-              "yardstick": 130.4,
-              "status": "finished",
-              "elapsedTime": "00:42:42"
-            },
-            {
-              "sailNumber": "201533",
-              "boatClass": "Laser Radial",
-              "skipper": "Glen Moulton",
-              "yardstick": 118.5,
-              "status": "finished",
-              "elapsedTime": "00:38:52"
-            },
-            {
-              "sailNumber": "639",
-              "boatClass": "Impulse",
-              "skipper": "Jarrod Beaumont",
-              "yardstick": 118.5,
-              "status": "DNF",
-              "elapsedTime": ""
-            }
+            {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:45:15"},
+            {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:43:05"},
+            {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:42:50"},
+            {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:40:10"},
+            {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "DNF","elapsedTime": ""}
           ],
           "results": [
-            {
-              "sailNumber": "1986",
-              "boatClass": "Sabre",
-              "skipper": "Steve Watson",
-              "yardstick": 127,
-              "status": "finished",
-              "elapsedTime": "00:39:52",
-              "correctedSeconds": 1883.4645669291338,
-              "correctedTime": "00:31:23",
-              "position": 1,
-              "points": 1
-            },
-            {
-              "sailNumber": "1200",
-              "boatClass": "Pacer Non Spinnaker",
-              "skipper": "Megan Cross",
-              "yardstick": 130.4,
-              "status": "finished",
-              "elapsedTime": "00:42:42",
-              "correctedSeconds": 1964.723926380368,
-              "correctedTime": "00:32:45",
-              "position": 2,
-              "points": 2
-            },
-            {
-              "sailNumber": "201533",
-              "boatClass": "Laser Radial",
-              "skipper": "Glen Moulton",
-              "yardstick": 118.5,
-              "status": "finished",
-              "elapsedTime": "00:38:52",
-              "correctedSeconds": 1967.9324894514768,
-              "correctedTime": "00:32:48",
-              "position": 3,
-              "points": 3
-            },
-            {
-              "sailNumber": "639",
-              "boatClass": "Impulse",
-              "skipper": "Jarrod Beaumont",
-              "yardstick": 118.5,
-              "status": "DNF",
-              "elapsedTime": "",
-              "correctedSeconds": null,
-              "correctedTime": null,
-              "position": "DNF",
-              "points": 5
-            }
+            {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:42:50","correctedSeconds": 2254.3859649122806,"correctedTime": "00:37:34","position": 1,"points": 1},
+            {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:40:10","correctedSeconds": 2231.4814814814815,"correctedTime": "00:37:11","position": 2,"points": 2}, // Note: Corrected time might seem off vs Laser, shows YS effect
+            {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:43:05","correctedSeconds": 2198.3122362869197,"correctedTime": "00:36:38","position": 3,"points": 3},
+            {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:45:15","correctedSeconds": 2145.6692913385826,"correctedTime": "00:35:46","position": 4,"points": 4},
+            {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "DNF","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "DNF","points": 6}
           ]
         },
         {
           "raceNumber": 2,
-          "date": null,
-          "entries": [],
-          "results": []
+          "date": "2024-03-24",
+          "entries": [
+            {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:48:00"},
+            {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:46:30"},
+            {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:45:55"},
+            {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:47:10"},
+            {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:47:35"},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "DNS","elapsedTime": ""}
+          ],
+          "results": [
+            {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:45:55","correctedSeconds": 2416.6666666666665,"correctedTime": "00:40:17","position": 1,"points": 1},
+            {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:46:30","correctedSeconds": 2354.4303797468354,"correctedTime": "00:39:14","position": 2,"points": 2},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:47:10","correctedSeconds": 2388.185654008439,"correctedTime": "00:39:48","position": 3,"points": 3},
+             {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:47:35","correctedSeconds": 2409.282700421941,"correctedTime": "00:40:09","position": 4,"points": 4},
+            {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:48:00","correctedSeconds": 2267.716535433071,"correctedTime": "00:37:48","position": 5,"points": 5},
+            {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "DNS","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "DNS","points": 7}
+          ]
         },
-        {
+         {
           "raceNumber": 3,
-          "date": null,
-          "entries": [],
-          "results": []
+          "date": "2024-03-31",
+          "entries": [
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:51:00"},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:49:15"},
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:50:30"},
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:47:20"},
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "OOD","elapsedTime": ""}
+          ],
+          "results": [
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:47:20","correctedSeconds": 2629.62962962963,"correctedTime": "00:43:50","position": 1,"points": 1},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:49:15","correctedSeconds": 2493.6708860759496,"correctedTime": "00:41:34","position": 2,"points": 2},
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:50:30","correctedSeconds": 2556.9620253164557,"correctedTime": "00:42:37","position": 3,"points": 3},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:51:00","correctedSeconds": 2417.3228346456694,"correctedTime": "00:40:17","position": 4,"points": 4},
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "OOD","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "OOD","points": 2.5} // Demo OOD points (avg of finishers)
+          ]
         },
         {
           "raceNumber": 4,
-          "date": null,
-          "entries": [],
-          "results": []
+          "date": "2024-04-07",
+           "entries": [
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:42:20"},
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:00"},
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:40:15"},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:50"},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:44:30"},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "DSQ","elapsedTime": ""}
+          ],
+          "results": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:40:15","correctedSeconds": 2118.421052631579,"correctedTime": "00:35:18","position": 1,"points": 1},
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:00","correctedSeconds": 2075.9493670886077,"correctedTime": "00:34:36","position": 2,"points": 2},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:50","correctedSeconds": 2101.2658227848103,"correctedTime": "00:35:01","position": 3,"points": 3},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:42:20","correctedSeconds": 1992.1259842519684,"correctedTime": "00:33:12","position": 4,"points": 4},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:44:30","correctedSeconds": 2140.0,"correctedTime": "00:35:40","position": 5,"points": 5},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "DSQ","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "DSQ","points": 7}
+          ]
         },
         {
           "raceNumber": 5,
-          "date": null,
-          "entries": [],
-          "results": []
+          "date": "2024-04-14",
+           "entries": [
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:39:50"},
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:38:45"},
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:36:20"},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:41:10"},
+             {"sailNumber": "1200","boatClass": "Pacer Non Spinnaker","skipper": "Megan Cross","yardstick": 130.4,"status": "finished","elapsedTime": "00:45:00"}
+          ],
+          "results": [
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:36:20","correctedSeconds": 2018.5185185185185,"correctedTime": "00:33:39","position": 1,"points": 1},
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:38:45","correctedSeconds": 2039.473684210526,"correctedTime": "00:34:00","position": 2,"points": 2},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:39:50","correctedSeconds": 2016.8776371308017,"correctedTime": "00:33:37","position": 3,"points": 3},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:41:10","correctedSeconds": 1944.8818897637796,"correctedTime": "00:32:25","position": 4,"points": 4},
+             {"sailNumber": "1200","boatClass": "Pacer Non Spinnaker","skipper": "Megan Cross","yardstick": 130.4,"status": "finished","elapsedTime": "00:45:00","correctedSeconds": 2069.0184049079755,"correctedTime": "00:34:29","position": 5,"points": 5}
+          ]
         },
         {
           "raceNumber": 6,
-          "date": null,
-          "entries": [],
-          "results": []
+          "date": "2024-04-21",
+           "entries": [
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:55:30"},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:53:00"},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:54:15"},
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:50:45"},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:52:20"}
+           ],
+          "results": [
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:50:45","correctedSeconds": 2837.962962962963,"correctedTime": "00:47:18","position": 1,"points": 1},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:52:20","correctedSeconds": 2754.3859649122806,"correctedTime": "00:45:54","position": 2,"points": 2},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:53:00","correctedSeconds": 2683.5443037974685,"correctedTime": "00:44:44","position": 3,"points": 3},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:54:15","correctedSeconds": 2746.8354430379748,"correctedTime": "00:45:47","position": 4,"points": 4},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:55:30","correctedSeconds": 2637.7952755905513,"correctedTime": "00:43:58","position": 5,"points": 5}
+          ]
         },
         {
           "raceNumber": 7,
+          "date": "2024-04-28",
+           "entries": [
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:40:30"},
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:39:40"},
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:00"},
+             {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:25"},
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "finished","elapsedTime": "00:40:00"}
+          ],
+          "results": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:39:40","correctedSeconds": 2087.719298245614,"correctedTime": "00:34:48","position": 1,"points": 1},
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "finished","elapsedTime": "00:40:00","correctedSeconds": 2086.9565217391304,"correctedTime": "00:34:47","position": 2,"points": 2},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:40:30","correctedSeconds": 2050.632911392405,"correctedTime": "00:34:11","position": 3,"points": 3},
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:00","correctedSeconds": 2075.9493670886077,"correctedTime": "00:34:36","position": 4,"points": 4},
+             {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:41:25","correctedSeconds": 2097.04641350211,"correctedTime": "00:34:57","position": 5,"points": 5}
+           ]
+        },
+        {
+          "raceNumber": 8,
+          "date": "2024-05-05",
+           "entries": [
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:49:05"},
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:47:40"},
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:44:55"},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:50:30"},
+             {"sailNumber": "1200","boatClass": "Pacer Non Spinnaker","skipper": "Megan Cross","yardstick": 130.4,"status": "finished","elapsedTime": "00:52:10"}
+          ],
+          "results": [
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:44:55","correctedSeconds": 2495.3703703703705,"correctedTime": "00:41:35","position": 1,"points": 1},
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:47:40","correctedSeconds": 2415.1898734177215,"correctedTime": "00:40:15","position": 2,"points": 2},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:49:05","correctedSeconds": 2326.771653543307,"correctedTime": "00:38:47","position": 3,"points": 3},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:50:30","correctedSeconds": 2437.650844730491,"correctedTime": "00:40:38","position": 4,"points": 4},
+             {"sailNumber": "1200","boatClass": "Pacer Non Spinnaker","skipper": "Megan Cross","yardstick": 130.4,"status": "finished","elapsedTime": "00:52:10","correctedSeconds": 2400.3067484662575,"correctedTime": "00:40:00","position": 5,"points": 5}
+          ]
+        },
+        {
+          "raceNumber": 9,
           "date": null,
           "entries": [],
           "results": []
         },
         {
-          "raceNumber": 8,
+          "raceNumber": 10,
           "date": null,
           "entries": [],
           "results": []
         }
-      ],
-      "isShortCourse": false
+      ]
+    },
+    {
+      "id": 1710580000002,
+      "name": "Demo Standard Series 2 (Winter)",
+      "isShortCourse": false,
+      "numberOfRaces": 8,
+      "discardThreshold": 0,
+      "dncScoringRule": "seriesCompetitors",
+      "races": [
+        {
+          "raceNumber": 1,
+          "date": "2024-06-02",
+           "entries": [
+             {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:35:10"},
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:36:00"},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:38:00"},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:39:30"},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:42:00"}
+           ],
+           "results": [
+             {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:35:10","correctedSeconds": 1981.2206572769953,"correctedTime": "00:33:01","position": 1,"points": 1},
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:36:00","correctedSeconds": 2000.0,"correctedTime": "00:33:20","position": 2,"points": 2},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:38:00","correctedSeconds": 2000.0,"correctedTime": "00:33:20","position": 2,"points": 2}, // Tied corrected time
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:39:30","correctedSeconds": 1995.7793427230047,"correctedTime": "00:33:16","position": 4,"points": 4},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:42:00","correctedSeconds": 1984.251968503937,"correctedTime": "00:33:04","position": 5,"points": 5}
+           ]
+        },
+        {
+          "raceNumber": 2,
+          "date": "2024-06-09",
+           "entries": [
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:44:10"},
+             {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:44:45"},
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "finished","elapsedTime": "00:42:30"},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "finished","elapsedTime": "00:43:50"},
+             {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:35:00"}
+          ],
+          "results": [
+             {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:35:00","correctedSeconds": 2178.4232365145227,"correctedTime": "00:36:18","position": 1,"points": 1},
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "finished","elapsedTime": "00:42:30","correctedSeconds": 2217.391304347826,"correctedTime": "00:36:57","position": 2,"points": 2},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "finished","elapsedTime": "00:43:50","correctedSeconds": 2210.970464135021,"correctedTime": "00:36:51","position": 3,"points": 3},
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:44:10","correctedSeconds": 2236.2869198312238,"correctedTime": "00:37:16","position": 4,"points": 4},
+             {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:44:45","correctedSeconds": 2265.8227848101267,"correctedTime": "00:37:46","position": 5,"points": 5}
+          ]
+        },
+        {
+          "raceNumber": 3,
+          "date": "2024-06-16",
+           "entries": [
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:56:10"},
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:54:30"},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:55:50"},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:58:00"},
+             {"sailNumber": "1200","boatClass": "Pacer Non Spinnaker","skipper": "Megan Cross","yardstick": 130.4,"status": "DNS","elapsedTime": ""}
+           ],
+           "results": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:54:30","correctedSeconds": 2868.421052631579,"correctedTime": "00:47:48","position": 1,"points": 1},
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:56:10","correctedSeconds": 2845.5696202531646,"correctedTime": "00:47:26","position": 2,"points": 2},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:55:50","correctedSeconds": 2827.8481012658228,"correctedTime": "00:47:08","position": 3,"points": 3},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:58:00","correctedSeconds": 2800.0,"correctedTime": "00:46:40","position": 4,"points": 4},
+             {"sailNumber": "1200","boatClass": "Pacer Non Spinnaker","skipper": "Megan Cross","yardstick": 130.4,"status": "DNS","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "DNS","points": 21} // Demo DNC (using boat list count + 1 for 'seriesCompetitors')
+           ]
+        },
+        {
+          "raceNumber": 4,
+          "date": "2024-06-23",
+           "entries": [
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:40:00"},
+             {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:39:15"},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:45:45"},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:44:00"},
+             {"sailNumber": "1640","boatClass": "Arrow","skipper": "Mara Chachs","yardstick": 89,"status": "finished","elapsedTime": "00:33:30"}
+           ],
+           "results": [
+             {"sailNumber": "1640","boatClass": "Arrow","skipper": "Mara Chachs","yardstick": 89,"status": "finished","elapsedTime": "00:33:30","correctedSeconds": 2258.426966292135,"correctedTime": "00:37:38","position": 1,"points": 1},
+             {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:39:15","correctedSeconds": 2211.2676056338027,"correctedTime": "00:36:51","position": 2,"points": 2},
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:40:00","correctedSeconds": 2222.222222222222,"correctedTime": "00:37:02","position": 3,"points": 3},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:44:00","correctedSeconds": 2227.848101265823,"correctedTime": "00:37:08","position": 4,"points": 4},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:45:45","correctedSeconds": 2161.4173228346456,"correctedTime": "00:36:01","position": 5,"points": 5}
+           ]
+        },
+        {
+          "raceNumber": 5,
+          "date": "2024-06-30",
+           "entries": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:48:10"},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:48:40"},
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:50:00"},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:52:30"},
+             {"sailNumber": "225","boatClass": "Alpha Omega 4.3","skipper": "Luke Anderson","yardstick": 88,"status": "DNF","elapsedTime": ""}
+           ],
+           "results": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:48:10","correctedSeconds": 2535.0877192982456,"correctedTime": "00:42:15","position": 1,"points": 1},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:48:40","correctedSeconds": 2561.40350877193,"correctedTime": "00:42:41","position": 2,"points": 2},
+             {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:50:00","correctedSeconds": 2531.6455696202533,"correctedTime": "00:42:12","position": 3,"points": 3},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:52:30","correctedSeconds": 2480.3149606299213,"correctedTime": "00:41:20","position": 4,"points": 4},
+             {"sailNumber": "225","boatClass": "Alpha Omega 4.3","skipper": "Luke Anderson","yardstick": 88,"status": "DNF","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "DNF","points": 21} // Demo DNC
+           ]
+        },
+        {
+          "raceNumber": 6,
+          "date": "2024-07-07",
+           "entries": [
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "finished","elapsedTime": "00:41:15"},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "finished","elapsedTime": "00:42:20"},
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:43:00"},
+             {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:34:45"},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:42:50"}
+           ],
+           "results": [
+             {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:34:45","correctedSeconds": 2162.863070539419,"correctedTime": "00:36:03","position": 1,"points": 1},
+             {"sailNumber": "5045","boatClass": "Moth Scow","skipper": "Allen Davis","yardstick": 115,"status": "finished","elapsedTime": "00:41:15","correctedSeconds": 2152.1739130434785,"correctedTime": "00:35:52","position": 2,"points": 2},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "finished","elapsedTime": "00:42:20","correctedSeconds": 2143.0379746835443,"correctedTime": "00:35:43","position": 3,"points": 3},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:42:50","correctedSeconds": 2168.776371308017,"correctedTime": "00:36:09","position": 4,"points": 4},
+             {"sailNumber": "170522","boatClass": "Laser Radial","skipper": "Don MacLachlan","yardstick": 118.5,"status": "finished","elapsedTime": "00:43:00","correctedSeconds": 2177.2151898734177,"correctedTime": "00:36:17","position": 5,"points": 5}
+           ]
+        },
+        {
+          "raceNumber": 7,
+          "date": "2024-07-14",
+           "entries": [
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:51:30"},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:54:00"},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:57:10"},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:55:45"},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:58:30"}
+           ],
+           "results": [
+             {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:51:30","correctedSeconds": 2861.1111111111113,"correctedTime": "00:47:41","position": 1,"points": 1},
+             {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:54:00","correctedSeconds": 2842.1052631578947,"correctedTime": "00:47:22","position": 2,"points": 2},
+             {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:55:45","correctedSeconds": 2822.7848101265823,"correctedTime": "00:47:03","position": 3,"points": 3},
+             {"sailNumber": "717","boatClass": "RS Neo","skipper": "Rory Wainer","yardstick": 124.3,"status": "finished","elapsedTime": "00:58:30","correctedSeconds": 2823.813354786806,"correctedTime": "00:47:04","position": 4,"points": 4},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:57:10","correctedSeconds": 2716.535433070866,"correctedTime": "00:45:17","position": 5,"points": 5}
+           ]
+        },
+        {
+          "raceNumber": 8,
+          "date": "2024-07-21",
+           "entries": [
+             {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:42:00"},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:45:00"},
+             {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:37:30"},
+             {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:46:15"},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "OOD","elapsedTime": ""}
+           ],
+           "results": [
+             {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:37:30","correctedSeconds": 2334.02489626556,"correctedTime": "00:38:54","position": 1,"points": 1},
+             {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:42:00","correctedSeconds": 2366.1971830985915,"correctedTime": "00:39:26","position": 2,"points": 2},
+             {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:45:00","correctedSeconds": 2278.481012658228,"correctedTime": "00:37:58","position": 3,"points": 3},
+             {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:46:15","correctedSeconds": 2341.772151898734,"correctedTime": "00:39:02","position": 4,"points": 4},
+             {"sailNumber": "639","boatClass": "Impulse","skipper": "Jarrod Beaumont","yardstick": 118.5,"status": "OOD","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "OOD","points": 2.5} // Demo OOD points
+           ]
+        }
+      ]
+    },
+    {
+      "id": 1710580000003,
+      "name": "Demo Sprint Series (Short Course)",
+      "isShortCourse": true,
+      "numberOfRaces": 8,
+      "discardThreshold": 0,
+      "dncScoringRule": "raceEntries",
+      "races": [
+        {
+          "raceNumber": 1,
+          "date": "2024-05-10",
+          "entries": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:15:30"},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:16:00"},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:16:45"},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:17:00"}
+           ],
+          "results": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:15:30","correctedSeconds": 815.7894736842105,"correctedTime": "00:13:36","position": 1,"points": 1},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:16:00","correctedSeconds": 810.126582278481,"correctedTime": "00:13:30","position": 2,"points": 2},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:16:45","correctedSeconds": 791.3385826771654,"correctedTime": "00:13:11","position": 3,"points": 3},
+             {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:17:00","correctedSeconds": 803.1496062992126,"correctedTime": "00:13:23","position": 4,"points": 4}
+           ]
+        },
+        {
+          "raceNumber": 2,
+          "date": "2024-05-10",
+           "entries": [
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:14:50"},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:15:25"},
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:16:10"},
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:14:15"}
+           ],
+          "results": [
+             {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "finished","elapsedTime": "00:14:15","correctedSeconds": 791.6666666666666,"correctedTime": "00:13:12","position": 1,"points": 1},
+             {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:14:50","correctedSeconds": 771.9298245614035,"correctedTime": "00:12:52","position": 2,"points": 2},
+             {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:15:25","correctedSeconds": 772.1518987341772,"correctedTime": "00:12:52","position": 3,"points": 3}, // Very close corrected
+             {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:16:10","correctedSeconds": 763.7795275590551,"correctedTime": "00:12:44","position": 4,"points": 4}
+           ]
+        },
+        {
+            "raceNumber": 3,
+            "date": "2024-05-17",
+             "entries": [
+               {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:18:05"},
+               {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:18:20"},
+               {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:17:40"},
+               {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:17:55"}
+             ],
+            "results": [
+               {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:17:40","correctedSeconds": 929.8245614035088,"correctedTime": "00:15:30","position": 1,"points": 1},
+               {"sailNumber": "466","boatClass": "Impulse","skipper": "Sean Williams","yardstick": 118.5,"status": "finished","elapsedTime": "00:17:55","correctedSeconds": 907.1729957805907,"correctedTime": "00:15:07","position": 2,"points": 2},
+               {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:18:05","correctedSeconds": 915.6118143459916,"correctedTime": "00:15:16","position": 3,"points": 3},
+               {"sailNumber": "194954","boatClass": "Laser Radial","skipper": "John Reid","yardstick": 118.5,"status": "finished","elapsedTime": "00:18:20","correctedSeconds": 928.2700421940929,"correctedTime": "00:15:28","position": 4,"points": 4}
+             ]
+          },
+          {
+            "raceNumber": 4,
+            "date": "2024-05-17",
+             "entries": [
+               {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:19:00"},
+               {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:17:30"},
+               {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:18:15"},
+               {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:18:40"}
+             ],
+            "results": [
+               {"sailNumber": "1869","boatClass": "Tasar","skipper": "John Reid","yardstick": 108,"status": "finished","elapsedTime": "00:17:30","correctedSeconds": 972.2222222222222,"correctedTime": "00:16:12","position": 1,"points": 1},
+               {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "finished","elapsedTime": "00:18:15","correctedSeconds": 960.5263157894737,"correctedTime": "00:16:01","position": 2,"points": 2},
+               {"sailNumber": "455","boatClass": "Impulse","skipper": "Mike Crook","yardstick": 118.5,"status": "finished","elapsedTime": "00:18:40","correctedSeconds": 945.1476793248945,"correctedTime": "00:15:45","position": 3,"points": 3},
+               {"sailNumber": "201533","boatClass": "Laser Radial","skipper": "Glen Moulton","yardstick": 118.5,"status": "finished","elapsedTime": "00:19:00","correctedSeconds": 962.0253164556962,"correctedTime": "00:16:02","position": 4,"points": 4}
+             ]
+          },
+          {
+            "raceNumber": 5,
+            "date": "2024-05-24",
+             "entries": [
+               {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:15:10"},
+               {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:13:45"},
+               {"sailNumber": "1640","boatClass": "Arrow","skipper": "Mara Chachs","yardstick": 89,"status": "finished","elapsedTime": "00:12:30"},
+               {"sailNumber": "225","boatClass": "Alpha Omega 4.3","skipper": "Luke Anderson","yardstick": 88,"status": "finished","elapsedTime": "00:12:20"}
+             ],
+            "results": [
+               {"sailNumber": "225","boatClass": "Alpha Omega 4.3","skipper": "Luke Anderson","yardstick": 88,"status": "finished","elapsedTime": "00:12:20","correctedSeconds": 840.909090909091,"correctedTime": "00:14:01","position": 1,"points": 1},
+               {"sailNumber": "1640","boatClass": "Arrow","skipper": "Mara Chachs","yardstick": 89,"status": "finished","elapsedTime": "00:12:30","correctedSeconds": 842.6966292134831,"correctedTime": "00:14:03","position": 2,"points": 2},
+               {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:13:45","correctedSeconds": 855.1867219917012,"correctedTime": "00:14:15","position": 3,"points": 3},
+               {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:15:10","correctedSeconds": 854.4600938967136,"correctedTime": "00:14:14","position": 4,"points": 4}
+             ]
+          },
+          {
+            "raceNumber": 6,
+            "date": "2024-05-24",
+             "entries": [
+               {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:16:00"},
+               {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:14:30"},
+               {"sailNumber": "1640","boatClass": "Arrow","skipper": "Mara Chachs","yardstick": 89,"status": "finished","elapsedTime": "00:13:15"},
+               {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "DNF","elapsedTime": ""}
+             ],
+            "results": [
+               {"sailNumber": "1640","boatClass": "Arrow","skipper": "Mara Chachs","yardstick": 89,"status": "finished","elapsedTime": "00:13:15","correctedSeconds": 893.2584269662921,"correctedTime": "00:14:53","position": 1,"points": 1},
+               {"sailNumber": "121","boatClass": "59er","skipper": "Simon Humphries","yardstick": 96.4,"status": "finished","elapsedTime": "00:14:30","correctedSeconds": 902.4896265560166,"correctedTime": "00:15:02","position": 2,"points": 2},
+               {"sailNumber": "1326","boatClass": "Contender","skipper": "Dalton Harvie","yardstick": 106.5,"status": "finished","elapsedTime": "00:16:00","correctedSeconds": 901.4084507042254,"correctedTime": "00:15:01","position": 3,"points": 3},
+               {"sailNumber": "2335","boatClass": "Tasar","skipper": "Simon Humphries","yardstick": 108,"status": "DNF","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "DNF","points": 5}
+             ]
+          },
+          {
+            "raceNumber": 7,
+            "date": "2024-05-31",
+            "entries": [
+                {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:19:10"},
+                {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:19:45"},
+                {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:20:30"},
+                {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:20:55"}
+              ],
+             "results": [
+                {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:19:10","correctedSeconds": 1008.7719298245614,"correctedTime": "00:16:49","position": 1,"points": 1},
+                {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:19:45","correctedSeconds": 999.1561181434599,"correctedTime": "00:16:39","position": 2,"points": 2},
+                {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:20:30","correctedSeconds": 968.503937007874,"correctedTime": "00:16:09","position": 3,"points": 3},
+                {"sailNumber": "1437","boatClass": "Sabre","skipper": "Jarrod Beaumont","yardstick": 127,"status": "finished","elapsedTime": "00:20:55","correctedSeconds": 988.1889763779527,"correctedTime": "00:16:28","position": 4,"points": 4}
+              ]
+          },
+          {
+            "raceNumber": 8,
+            "date": "2024-05-31",
+             "entries": [
+                {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:18:50"},
+                {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:19:20"},
+                {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:20:05"},
+                {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "OCS","elapsedTime": ""}
+              ],
+             "results": [
+                {"sailNumber": "176928","boatClass": "Laser","skipper": "Kim Straatemei","yardstick": 114,"status": "finished","elapsedTime": "00:18:50","correctedSeconds": 991.2280701754386,"correctedTime": "00:16:31","position": 1,"points": 1},
+                {"sailNumber": "426","boatClass": "Impulse","skipper": "Herman Cleven","yardstick": 118.5,"status": "finished","elapsedTime": "00:19:20","correctedSeconds": 978.9029535864978,"correctedTime": "00:16:19","position": 2,"points": 2},
+                {"sailNumber": "1986","boatClass": "Sabre","skipper": "Steve Watson","yardstick": 127,"status": "finished","elapsedTime": "00:20:05","correctedSeconds": 950.3937007874016,"correctedTime": "00:15:50","position": 3,"points": 3},
+                {"sailNumber": "71","boatClass": "Laser","skipper": "Steve McConnell","yardstick": 114,"status": "OCS","elapsedTime": "","correctedSeconds": null,"correctedTime": null,"position": "OCS","points": 5}
+              ]
+          }
+      ]
     }
   ],
   "boatListData": [

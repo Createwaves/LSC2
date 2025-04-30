@@ -1,0 +1,217 @@
+{
+  "version": "LysterfieldResultsApp_v1.6_GithubPages",
+  "exportDate": "2024-03-15T11:30:00.000Z",
+  "seriesData": [
+    {
+      "id": 1700123456789,
+      "name": "Demo Spring Series 2024",
+      "isShortCourse": false,
+      "numberOfRaces": 4,
+      "discardThreshold": 3,
+      "dncScoringRule": "raceEntries",
+      "races": [
+        {
+          "raceNumber": 1,
+          "date": "2024-03-10",
+          "entries": [
+            {
+              "sailNumber": "AUS123",
+              "boatClass": "Sabre",
+              "skipper": "Alice Argon",
+              "yardstick": 127,
+              "status": "finished",
+              "elapsedTime": "00:45:30"
+            },
+            {
+              "sailNumber": "V456",
+              "boatClass": "Pacer",
+              "skipper": "Bob Banner",
+              "yardstick": 127.5,
+              "status": "finished",
+              "elapsedTime": "00:50:15"
+            },
+            {
+              "sailNumber": "IMP789",
+              "boatClass": "Impulse",
+              "skipper": "Charlie Comet",
+              "yardstick": 118.5,
+              "status": "DNF",
+              "elapsedTime": ""
+            },
+            {
+                "sailNumber": "TAS101",
+                "boatClass": "Tasar",
+                "skipper": "Diana Dart",
+                "yardstick": 108,
+                "status": "DNS",
+                "elapsedTime": ""
+              }
+          ],
+          "results": [
+            {
+              "sailNumber": "AUS123",
+              "boatClass": "Sabre",
+              "skipper": "Alice Argon",
+              "yardstick": 127,
+              "status": "finished",
+              "elapsedTime": "00:45:30",
+              "correctedSeconds": 2149.6062992125985,
+              "correctedTime": "00:35:50",
+              "position": 1,
+              "points": 1
+            },
+            {
+              "sailNumber": "V456",
+              "boatClass": "Pacer",
+              "skipper": "Bob Banner",
+              "yardstick": 127.5,
+              "status": "finished",
+              "elapsedTime": "00:50:15",
+              "correctedSeconds": 2364.705882352941,
+              "correctedTime": "00:39:25",
+              "position": 2,
+              "points": 2
+            },
+            {
+              "sailNumber": "IMP789",
+              "boatClass": "Impulse",
+              "skipper": "Charlie Comet",
+              "yardstick": 118.5,
+              "status": "DNF",
+              "elapsedTime": "",
+              "correctedSeconds": null,
+              "correctedTime": null,
+              "position": "DNF",
+              "points": 5
+            },
+            {
+              "sailNumber": "TAS101",
+              "boatClass": "Tasar",
+              "skipper": "Diana Dart",
+              "yardstick": 108,
+              "status": "DNS",
+              "elapsedTime": "",
+              "correctedSeconds": null,
+              "correctedTime": null,
+              "position": "DNS",
+              "points": 5
+            }
+          ]
+        },
+        {
+          "raceNumber": 2,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 3,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 4,
+          "date": null,
+          "entries": [],
+          "results": []
+        }
+      ]
+    },
+    {
+        "id": 1700123459999,
+        "name": "Demo Short Course Session",
+        "isShortCourse": true,
+        "numberOfRaces": 1,
+        "discardThreshold": 0,
+        "dncScoringRule": "seriesCompetitors",
+        "races": [
+            {
+              "raceNumber": 1,
+              "date": "2024-03-11",
+              "entries": [
+                {
+                  "sailNumber": "AUS123",
+                  "boatClass": "Sabre",
+                  "skipper": "Alice Argon",
+                  "yardstick": 127,
+                  "status": "finished",
+                  "elapsedTime": "00:15:10"
+                },
+                {
+                  "sailNumber": "V456",
+                  "boatClass": "Pacer",
+                  "skipper": "Bob Banner",
+                  "yardstick": 127.5,
+                  "status": "finished",
+                  "elapsedTime": "00:16:05"
+                }
+              ],
+              "results": [
+                {
+                  "sailNumber": "AUS123",
+                  "boatClass": "Sabre",
+                  "skipper": "Alice Argon",
+                  "yardstick": 127,
+                  "status": "finished",
+                  "elapsedTime": "00:15:10",
+                  "correctedSeconds": 716.5354330708661,
+                  "correctedTime": "00:11:57",
+                  "position": 1,
+                  "points": 1
+                },
+                {
+                  "sailNumber": "V456",
+                  "boatClass": "Pacer",
+                  "skipper": "Bob Banner",
+                  "yardstick": 127.5,
+                  "status": "finished",
+                  "elapsedTime": "00:16:05",
+                  "correctedSeconds": 756.8627450980392,
+                  "correctedTime": "00:12:37",
+                  "position": 2,
+                  "points": 2
+                }
+              ]
+            }
+        ]
+      }
+  ],
+  "boatListData": [
+    {
+      "id": 1699123000111,
+      "sailNumber": "AUS123",
+      "boatClass": "Sabre",
+      "skipper": "Alice Argon",
+      "yardstick": 127
+    },
+    {
+      "id": 1699123000222,
+      "sailNumber": "V456",
+      "boatClass": "Pacer",
+      "skipper": "Bob Banner",
+      "yardstick": 127.5
+    },
+    {
+      "id": 1699123000333,
+      "sailNumber": "IMP789",
+      "boatClass": "Impulse",
+      "skipper": "Charlie Comet",
+      "yardstick": 118.5
+    },
+    {
+        "id": 1699123000444,
+        "sailNumber": "TAS101",
+        "boatClass": "Tasar",
+        "skipper": "Diana Dart",
+        "yardstick": 108
+      },
+      {
+        "id": 1699123000555,
+        "sailNumber": "L199",
+        "boatClass": "Laser",
+        "skipper": "Eddie Electron",
+        "yardstick": 114
+      }
+  ]
+}
